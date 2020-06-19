@@ -72,3 +72,7 @@ colores.push ("anaranjado");
 
 console.log(objeto);
 console.log(colores);
+
+// nuevo 
+
+console.log("********************");
